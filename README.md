@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Jooeun Kim</h1>
-<h3 align="center">I am majoring in Information Systems Engineering</h3>
+<h3 align="center">I am majoring in AI</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning ...**
 - ⚡ I am also double majoring in Convergence Security Engineering.

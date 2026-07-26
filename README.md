@@ -9,13 +9,6 @@
 
 <br>
 
-- 🎓 B.S. in **AI Convergence**  
-  &nbsp;&nbsp;&nbsp;&nbsp;Double Major in **Convergence Security Engineering**  
-  &nbsp;&nbsp;&nbsp;&nbsp;2020.03 – 2024.08
-
-- 🎓 M.S. in **Computer Software**  
-  &nbsp;&nbsp;&nbsp;&nbsp;2024.09 – 2026.08 expected
-
 - 🔭 I’m currently interested in **Recommender Systems** and **Generative Models**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, and Generative Models**

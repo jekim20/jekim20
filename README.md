@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently interested in **Recommender Systems** and **Generative Models**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, and Generative Models**
-
 - 💡 I’m especially interested in **review-based recommendation**, **cross-domain recommendation**, and **diffusion-based embedding generation**
 
 

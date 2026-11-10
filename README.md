@@ -1,33 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jekim20/jekim20** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+### AI/ML · LLM Agents · Backend Development
 
-<h1 align="center">Hi, I'm Jooeun Kim</h1>
-<h3 align="center">Interested in Recommender Systems and Generative Models</h3>
+Interested in building and evaluating AI systems, from machine learning models to real-world applications.
 
-<br>
+**Areas of Interest**
+- Recommender Systems & Machine Learning
+- LLM Applications, RAG & AI Agents
+- Backend Development & AI Service Integration
+- Model Evaluation & Reliable AI Systems
 
-- 🔭 I’m currently interested in **Recommender Systems** and **Generative Models**
+**Tech Stack**
+- **Languages:** Python, Java, SQL
+- **AI/ML:** PyTorch, scikit-learn, Pandas, NumPy
+- **LLM/Agents:** LangChain, LangGraph, Spring AI, RAG
+- **Backend/Database:** Spring Boot, PostgreSQL, MySQL
+- **Tools:** Docker, Git, GitHub
 
-- 💡 I’m especially interested in **review-based recommendation**, **cross-domain recommendation**, and **diffusion-based embedding generation**
-
-
-<!--
-<h3 align="left">🛠 Tech Stack</h3>
-
-Techs that I've used or studied
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/></a>&nbsp
-</p>
--->
+**Projects & Research**
+- Review-based and cross-domain recommendation
+- RAG and tool-calling AI agents
+- Multi-agent workflows and evaluation
+- Backend services and API integration
